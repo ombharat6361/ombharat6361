@@ -4,6 +4,7 @@
 
 🌟 About Me:
 I'm a passionate and curious student who's on a journey to explore the exciting world of data science and machine learning.
+
 /* Just trying to be better */
 
 🎓 Education:
