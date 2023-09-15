@@ -11,7 +11,7 @@ I'm a passionate and curious student who's on a journey to explore the exciting 
 - Currently exploring computer vision and NLP!
 
 📫 Let's Connect:
-I'm always open to connecting with fellow students, mentors, and anyone who shares my passion for [Your Field of Study]. Don't hesitate to reach out for a chat or collaboration. You can connect with me on [Your Preferred Social Media Links] or drop me an email at [Your Email Address].
+I'm always open to connecting with fellow students, mentors, and anyone who shares my passion for data science and machine learning. Don't hesitate to reach out for a chat or collaboration. You can connect with me on [LinkedIn](https://www.linkedin.com/in/om-bharat-4005031b4/) or drop me an email at ombharat6361@gmail.com.
 
 🌐 Check out my projects and explorations below!
 
