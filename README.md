@@ -1,10 +1,10 @@
-👋 Hi there! I'm [Your Name]
+👋 Hi there! I'm Om
 
 📚 Student  | 🎓 NMIMS Mumbai
 
 🌟 About Me:
 I'm a passionate and curious student who's on a journey to explore the exciting world of data science and machine learning.
-// Just trying to be better //
+/* Just trying to be better */
 
 🎓 Education:
 - Currently, I'm pursuing a degree in Data Science
