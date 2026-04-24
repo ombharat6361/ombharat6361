@@ -1,4 +1,5 @@
 Hey I'm Om
+
 Data Scientist | Bengaluru
 
 AI enthusiast with a strong passion for exploring the intersection of technology and creativity. Fascinated by the way machines can learn and adapt to improve performance.
